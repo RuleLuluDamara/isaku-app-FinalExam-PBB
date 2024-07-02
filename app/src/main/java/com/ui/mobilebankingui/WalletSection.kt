@@ -57,7 +57,7 @@ fun WalletSection(viewModel: SharedViewModel) {
             )
             Spacer(modifier = Modifier.height(8.dp))
             Text (
-                text = "Saldo: Rp $saldostate",
+                text = "Hi Rule! : Rp $saldostate",
                 fontSize = 24.sp,
                 fontWeight = FontWeight.Bold,
                 color = MaterialTheme.colorScheme.onBackground
